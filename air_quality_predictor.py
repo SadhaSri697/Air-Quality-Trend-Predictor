@@ -1,12 +1,3 @@
-"""
-Air Quality Trend Predictor - Beijing Multi-Site Air Quality Data
-Predicts future PM2.5 with Linear Regression and Random Forest, using a
-chronological split. Compares both against a persistence baseline.
-
-Usage:
-    python air_quality_predictor.py --data data/PRSA_Data_20130301-20170228 --station Aotizhongxin
-Outputs go to ./figures and ./results.
-"""
 import argparse
 import os
 
