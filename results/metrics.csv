@@ -1,0 +1,10 @@
+station,horizon_h,model,MAE,RMSE,R2
+Aotizhongxin,1,Persistence,10.373,19.179,0.948
+Aotizhongxin,1,Linear Regression,10.497,18.139,0.954
+Aotizhongxin,1,Random Forest,9.978,18.598,0.951
+Aotizhongxin,3,Persistence,22.058,39.018,0.786
+Aotizhongxin,3,Linear Regression,23.13,37.497,0.802
+Aotizhongxin,3,Random Forest,21.137,36.84,0.809
+Aotizhongxin,7,Persistence,36.051,60.051,0.494
+Aotizhongxin,7,Linear Regression,35.866,55.424,0.569
+Aotizhongxin,7,Random Forest,33.786,53.824,0.593
